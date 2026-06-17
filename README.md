@@ -1,3 +1,7 @@
+
+
+MEDI-ORCHESTRA AI is an autonomous multi-agent healthcare intelligence system that analyzes patient data in real time using AI agents and FHIR-based interoperability. It helps hospitals improve diagnosis, clinical decision-making, emergency response, and patient care through intelligent AI orchestration.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
